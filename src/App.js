@@ -1,7 +1,11 @@
-
+import Time from './components/Time'
+import Heading from './components/Heading'
 function App() {
   return (
-  <h1>Hello world</h1>
+   <div>
+  <Heading />
+  <Time />
+  </div>
   );
 }
 

@@ -1,0 +1,22 @@
+.time{
+    background-image:linear-gradient(to right,rgb(103, 103, 255),rgb(255, 110, 134));
+    border:2px solid orange;
+    padding:10px;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    min-height: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.heading{
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+button{
+    background-color: aqua;
+    border:2px solid green; 
+}
